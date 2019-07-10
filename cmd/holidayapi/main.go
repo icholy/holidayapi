@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/icholy/go-holidayapi"
+	"github.com/icholy/holidayapi"
 )
 
 var (
